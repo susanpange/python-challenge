@@ -56,5 +56,3 @@ with open(csvpath) as csvfile:
     
 budget_analysis(month_count, profit_count)
 
-output_file = os.path.join("budget_analysis_output.csv")
-

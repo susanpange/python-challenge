@@ -66,5 +66,3 @@ with open(csvpath) as csvfile:
     
 election_analysis(vote_counting, candidate_list)
 
-output_file = os.path.join("election_analysis_output.csv")
-
